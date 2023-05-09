@@ -1,4 +1,4 @@
 export function HelloWorld() {
-    return (<div>Hello world</div>);
+    return (<div>Hello Alina and Misha!</div>);
 }
 export default HelloWorld;
